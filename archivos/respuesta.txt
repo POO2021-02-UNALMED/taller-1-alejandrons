@@ -1,0 +1,3 @@
+En el Github Desktop no aparecía la opción
+de hacer un commit para agregar la carpeta
+"archivos" porque estaba vacía
