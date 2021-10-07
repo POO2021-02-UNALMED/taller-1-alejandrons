@@ -1,13 +1,13 @@
-<<<<<<< HEAD
+
+Ahora sí se pudo crear un commit
+y subir la carpeta pues la misma ya no está vacía,
+previo a este archivo se creó dentro de la carpeta
+el archivo "respuesta.txt"
+
 Alejandro
 20 años
 Espero poder mejorar mis habilidades de programación
 aprendiendo de este paradigma para fortalecer la
 competencia concerniente al desarrollo en la carrera
 (Ing. Sistemas)
-=======
-Ahora sí se pudo crear un commit
-y subir la carpeta pues la misma ya no está vacía,
-previo a este archivo se creó dentro de la carpeta
-el archivo "respuesta.txt"
->>>>>>> 392f06b451d24cb02a9a52aa5235f14955783214
+
